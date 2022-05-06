@@ -1,0 +1,6 @@
+version: "1"
+rules:
+  - base: develop-6.1.x
+    upstream: null:develop-6.1.x
+    mergeMethod: merge
+    mergeUnstable: true
